@@ -1,7 +1,7 @@
 # COPYRIGHT
 
 ```
-Copyright © 2021-present Bellande Robotics Sensors Research Innovation Center. All rights reserved.
+Copyright © 2021-present Ronaldson Bellande, Bellande Robotics Sensors Research Innovation Center. All rights reserved.
 
 This work, including but not limited to research findings, code, scientific data, methodologies, protocols, algorithms, software, analyses, documentation, laboratory procedures, experimental results, technical information, diagrams, charts, formulas, equations, proofs and all other materials contained herein (collectively, the "Materials"), are protected by copyright and other intellectual property rights under international conventions and the laws of applicable jurisdictions worldwide.
 
