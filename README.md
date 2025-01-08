@@ -12,7 +12,7 @@ This work, including but not limited to research findings, code, scientific data
 4. Documentation: Technical reports, research papers, presentations, and supporting materials are protected works.
 
 Restricted Actions:
-No part of these Materials may be reproduced, distributed, modified, reverse engineered, decompiled, analyzed for structure, displayed, performed, published, transmitted, or used in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of [Organization Name], except for:
+No part of these Materials may be reproduced, distributed, modified, reverse engineered, decompiled, analyzed for structure, displayed, performed, published, transmitted, or used in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of Bellande Robotics Sensors Research Innovation Center, except for:
 (a) uses explicitly permitted under a separate written agreement with Bellande Robotics Sensors Research Innovation Center,
 (b) brief quotations in scientific publications with appropriate citation and acknowledgment,
 (c) uses permitted under applicable statutory exceptions and limitations to copyright, including fair use/fair dealing for research purposes.
@@ -23,7 +23,7 @@ Certain components of the Materials may be subject to additional protections und
 Collaboration and Licensing:
 For research collaboration inquiries, licensing requests, and permissions, please contact:
 Ronaldson Bellande
-Bellande Technologies Corperation Inc
+Bellande Technologies Corporation Inc
 Bellande Robotics Sensors Research Innovation Center
 
 Attribution Requirements:
